@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reader-impact-local-alpha"
+version = "0.2.0"
+requires-python = ">=3.11"
+dependencies = ["pypdf>=5,<7", "defusedxml>=0.7,<1"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<10", "reportlab>=4,<5"]
+
+[project.scripts]
+reader-impact = "reader_impact.cli:main"
+audience-impact = "reader_impact.cli:audience_main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

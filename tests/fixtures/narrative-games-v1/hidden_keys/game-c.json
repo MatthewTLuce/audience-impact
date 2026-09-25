@@ -1,0 +1,120 @@
+{
+  "version": "narrative-games-v1",
+  "canary": "PRIVATE_GAME_KEY_20260925_18bc_game-c",
+  "cases": {
+    "R0001": {
+      "emotions": [
+        "comfort"
+      ],
+      "group": "farewell-c",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0002": {
+      "emotions": [
+        "loved"
+      ],
+      "group": "farewell-c",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0003": {
+      "emotions": [
+        "hope"
+      ],
+      "group": "farewell-c",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0004": {
+      "emotions": [
+        "hated"
+      ],
+      "group": "farewell-c",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0005": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "gameplay",
+        "technical"
+      ]
+    },
+    "R0006": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "price_value",
+        "service"
+      ]
+    },
+    "R0007": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "mixed"
+      ]
+    },
+    "R0008": {
+      "emotions": [
+        "unforgettable"
+      ],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0009": {
+      "emotions": [
+        "comfort"
+      ],
+      "group": "funeral-c",
+      "abstention": null,
+      "sensitive": true,
+      "context_categories": []
+    },
+    "R0010": {
+      "emotions": [
+        "lingering impact"
+      ],
+      "group": "farewell-c",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0011": {
+      "emotions": [],
+      "group": null,
+      "abstention": "instruction_like_text",
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0012": {
+      "emotions": [],
+      "group": null,
+      "abstention": "scope_or_coordination_concern",
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0013": {
+      "emotions": [],
+      "group": null,
+      "abstention": "insufficient_rule_evidence",
+      "sensitive": false,
+      "context_categories": []
+    }
+  },
+  "expected_exact_duplicates": 1
+}

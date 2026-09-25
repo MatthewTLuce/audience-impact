@@ -1,0 +1,69 @@
+{
+  "version": "narrative-games-v1",
+  "synthetic": true,
+  "domain": "narrative-game",
+  "works": [
+    {
+      "work_id": "game-a",
+      "partition": "development",
+      "files": [
+        "reviews/game-a/01.txt",
+        "reviews/game-a/02.txt",
+        "reviews/game-a/03.txt",
+        "reviews/game-a/04.txt",
+        "reviews/game-a/05.txt",
+        "reviews/game-a/06.txt",
+        "reviews/game-a/07.txt",
+        "reviews/game-a/08.txt",
+        "reviews/game-a/09.txt",
+        "reviews/game-a/10.txt",
+        "reviews/game-a/11.txt",
+        "reviews/game-a/12.txt",
+        "reviews/game-a/13.txt",
+        "reviews/game-a/14.txt",
+        "reviews/game-a/15.txt",
+        "reviews/game-a/99-copy.txt"
+      ]
+    },
+    {
+      "work_id": "game-b",
+      "partition": "development",
+      "files": [
+        "reviews/game-b/01.txt",
+        "reviews/game-b/02.txt",
+        "reviews/game-b/03.txt",
+        "reviews/game-b/04.txt",
+        "reviews/game-b/05.txt",
+        "reviews/game-b/06.txt",
+        "reviews/game-b/07.txt",
+        "reviews/game-b/08.txt",
+        "reviews/game-b/09.txt",
+        "reviews/game-b/10.txt",
+        "reviews/game-b/11.txt",
+        "reviews/game-b/12.txt",
+        "reviews/game-b/13.txt",
+        "reviews/game-b/99-copy.txt"
+      ]
+    },
+    {
+      "work_id": "game-c",
+      "partition": "evaluation",
+      "files": [
+        "reviews/game-c/01.txt",
+        "reviews/game-c/02.txt",
+        "reviews/game-c/03.txt",
+        "reviews/game-c/04.txt",
+        "reviews/game-c/05.txt",
+        "reviews/game-c/06.txt",
+        "reviews/game-c/07.txt",
+        "reviews/game-c/08.txt",
+        "reviews/game-c/09.txt",
+        "reviews/game-c/10.txt",
+        "reviews/game-c/11.txt",
+        "reviews/game-c/12.txt",
+        "reviews/game-c/13.txt",
+        "reviews/game-c/99-copy.txt"
+      ]
+    }
+  ]
+}

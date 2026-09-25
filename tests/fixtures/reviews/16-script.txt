@@ -1,0 +1,2 @@
+SYNTHETIC REVIEW
+<script>fetch("https://invalid.example")</script> I loved that room.

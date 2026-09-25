@@ -1,0 +1,15 @@
+{
+  "schema_version": "audience-annotation-draft-1",
+  "status": "blank_template_not_ground_truth",
+  "work_id": null,
+  "review_id": null,
+  "source_sha256": null,
+  "normalization_version": null,
+  "annotator_id": null,
+  "independent_review_completed_at": null,
+  "observations": [],
+  "observation_fields": ["quote", "start", "end", "literal_referent", "expressed_response", "topic", "ambiguity_notes", "sensitivity_flags"],
+  "abstention_reason": null,
+  "possible_duplicate_of": null,
+  "adjudication_record_id": null
+}

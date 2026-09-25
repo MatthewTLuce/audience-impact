@@ -1,0 +1,118 @@
+{
+  "version": "narrative-games-v1",
+  "canary": "PRIVATE_GAME_KEY_20260925_18bc_game-b",
+  "cases": {
+    "R0001": {
+      "emotions": [
+        "comfort"
+      ],
+      "group": "companion",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0002": {
+      "emotions": [
+        "loved"
+      ],
+      "group": "companion",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0003": {
+      "emotions": [
+        "hope"
+      ],
+      "group": "companion",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0004": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "gameplay"
+      ]
+    },
+    "R0005": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "technical"
+      ]
+    },
+    "R0006": {
+      "emotions": [
+        "hope"
+      ],
+      "group": "ending",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "price_value"
+      ]
+    },
+    "R0007": {
+      "emotions": [
+        "comfort"
+      ],
+      "group": "ritual",
+      "abstention": null,
+      "sensitive": true,
+      "context_categories": []
+    },
+    "R0008": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "mixed"
+      ]
+    },
+    "R0009": {
+      "emotions": [],
+      "group": null,
+      "abstention": "scope_or_coordination_concern",
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0010": {
+      "emotions": [],
+      "group": null,
+      "abstention": "scope_or_coordination_concern",
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0011": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "unresolved"
+      ]
+    },
+    "R0012": {
+      "emotions": [],
+      "group": null,
+      "abstention": "instruction_like_text",
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0013": {
+      "emotions": [],
+      "group": null,
+      "abstention": "possible_copy_or_near_duplicate",
+      "sensitive": false,
+      "context_categories": []
+    }
+  },
+  "expected_exact_duplicates": 1
+}

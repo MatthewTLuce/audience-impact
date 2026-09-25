@@ -1,0 +1,135 @@
+{
+  "version": "narrative-games-v1",
+  "canary": "PRIVATE_GAME_KEY_20260925_18bc_game-a",
+  "cases": {
+    "R0001": {
+      "emotions": [
+        "hope"
+      ],
+      "group": "farewell",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0002": {
+      "emotions": [
+        "loved"
+      ],
+      "group": "farewell",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0003": {
+      "emotions": [
+        "hated"
+      ],
+      "group": "farewell",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0004": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "gameplay",
+        "gameplay"
+      ]
+    },
+    "R0005": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "technical",
+        "technical"
+      ]
+    },
+    "R0006": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "price_value",
+        "service"
+      ]
+    },
+    "R0007": {
+      "emotions": [],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": [
+        "mixed"
+      ]
+    },
+    "R0008": {
+      "emotions": [
+        "loved"
+      ],
+      "group": null,
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0009": {
+      "emotions": [
+        "devastated"
+      ],
+      "group": "funeral",
+      "abstention": null,
+      "sensitive": true,
+      "context_categories": []
+    },
+    "R0010": {
+      "emotions": [],
+      "group": null,
+      "abstention": "scope_or_coordination_concern",
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0011": {
+      "emotions": [],
+      "group": null,
+      "abstention": "instruction_like_text",
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0012": {
+      "emotions": [],
+      "group": null,
+      "abstention": "insufficient_rule_evidence",
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0013": {
+      "emotions": [
+        "lingering impact"
+      ],
+      "group": "farewell",
+      "abstention": null,
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0014": {
+      "emotions": [],
+      "group": null,
+      "abstention": "insufficient_rule_evidence",
+      "sensitive": false,
+      "context_categories": []
+    },
+    "R0015": {
+      "emotions": [],
+      "group": null,
+      "abstention": "possible_copy_or_near_duplicate",
+      "sensitive": false,
+      "context_categories": []
+    }
+  },
+  "expected_exact_duplicates": 1
+}

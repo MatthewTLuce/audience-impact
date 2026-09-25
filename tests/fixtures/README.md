@@ -1,0 +1,1 @@
+All review snippets are synthetic engineering fixtures. The expected key is scorer-only and deliberately includes semantic cases the narrow rule engine misses. Never interpret scores as real-reader validation.
